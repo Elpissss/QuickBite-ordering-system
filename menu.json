@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Fish",
+        "price": 5.35
+    },
+    {
+        "name": "Salad",
+        "price": 3.4
+    },
+    {
+        "name": "Chips",
+        "price": 1.45
+    },
+    {
+        "name": "Drink",
+        "price": 2.35
+    },
+    {
+        "name": "Pizza",
+        "price": 8.77
+    },
+    {
+        "name": "Fruits",
+        "price": 2.5
+    },
+    {
+        "name": "Dessert",
+        "price": 4.0
+    }
+]
